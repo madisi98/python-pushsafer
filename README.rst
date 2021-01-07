@@ -3,7 +3,7 @@
     :width: 100%
     :align: center
 
-``python-pushsafer`` aims at providing comprehensive Python bindings for the API
+``python-pushsafer-plus`` is an UNOFFICIAL module that provides comprehensive Python bindings for the API
 of the `Pushsafer Notification Service`_ as documented here__.
 
 .. _Pushsafer Notification Service: https://www.pushsafer.com/ 
